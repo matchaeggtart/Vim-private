@@ -8,4 +8,5 @@ set cindent
 set shiftwidth=4
 set background=dark
 " color scheme
-colo moloka
+colo molokai
+
