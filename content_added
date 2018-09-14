@@ -1,0 +1,11 @@
+
+set nu
+set nobackup
+"set smartindent
+set ruler
+set autoindent
+set cindent
+set shiftwidth=4
+set background=dark
+" color scheme
+colo moloka
