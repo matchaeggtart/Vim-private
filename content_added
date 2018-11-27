@@ -9,4 +9,7 @@ set shiftwidth=4
 set background=dark
 " color scheme
 " colo molokai
-
+" color sorized
+syntax enable
+set background=dark
+colorscheme solarized
