@@ -1,0 +1,14 @@
+
+set nu
+set nobackup
+"set smartindent
+set ruler
+set autoindent
+set cindent
+set shiftwidth=4
+"color scheme
+"colo molokai
+"color sorized
+"syntax enable
+"set background=dark
+"colorscheme solarized
