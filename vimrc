@@ -12,6 +12,8 @@ set tabstop=4
 set foldmethod=indent
 
 set background=dark
+" set termguicolors
+set t_Co=256
 set hlsearch
 syntax on
 
@@ -33,3 +35,4 @@ Plug 'Raimondi/delimitMate'
 " Initialize plugin system
 call plug#end()
 
+colorscheme hybrid
