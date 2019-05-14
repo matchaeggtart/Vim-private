@@ -1,0 +1,6 @@
+(1) vi ~/.zshrc
+export TERM=xterm-256color
+(2) vi ~/.tmux.conf
+set -g default-terminal "screen-256color"
+
+1 is better
